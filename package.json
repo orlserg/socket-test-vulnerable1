@@ -1,0 +1,22 @@
+{
+  "name": "socket-test-vulnerable",
+  "version": "1.0.2",
+  "description": "For test purposes only",
+  "main": "index.js",
+  "scripts": {
+    "test": "id"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orlserg/socket-test-vulnerable1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orlserg/socket-test-vulnerable1/issues"
+  },
+  "homepage": "https://github.com/orlserg/socket-test-vulnerable1#readme",
+  "dependencies": {
+    "@orlserg32112/socket-test-vulndep": "^1.0.11"
+  }
+}
